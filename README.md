@@ -43,7 +43,7 @@ HOW MODEL WORKS:
 RUN THE PROJECT :  
  
 1.	CLONE THE REPOSITORY  
-Git clone https://github.com/HussainP53/Plant-Diseases-Recognition.git 
+Git clone https://github.com/manav081/VITyarthi-AIML-Project 
  
 2.	INSTALL REQUIRED  LIBRARIES     pip install -r reequirments.txt 
  
